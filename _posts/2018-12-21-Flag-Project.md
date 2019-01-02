@@ -4,14 +4,14 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Flag of Sweden by David Beltran
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
+I designed the Swedish flag
 
-<!--- Delete this comment and add your writing -->
+I expect an apprentice for this project 
+
 
 ## Current output
 
@@ -25,7 +25,7 @@ date: 2018-12-21
 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
-<!--- Delete this comment and add your writing -->
+I received some help from peers and was able to design the flag 
 
 
 ## Explain your code.
